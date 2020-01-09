@@ -7,3 +7,4 @@
 	a new line.
 	a new line again.
 	a1 changed
+	add a new line by master.
