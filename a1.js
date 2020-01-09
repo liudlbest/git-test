@@ -8,3 +8,4 @@
 	a new line again.
 	a1 changed
 	add a new line by master.
+	add a new line by master again.
