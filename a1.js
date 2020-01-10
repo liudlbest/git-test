@@ -11,3 +11,4 @@
 	add a new line by master again.
 
 	add a new line by dev branch.
+	add a new line by dev branch twice.
