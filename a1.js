@@ -14,3 +14,4 @@
 	add a new line by dev branch twice.
 	test ssh again again
 	test encode
+	test git bash
